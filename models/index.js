@@ -41,4 +41,3 @@ Post.hasMany(Comment, {
 
 module.exports = { User, Post, Comment };
 
-app.listen(process.env || 3001);
