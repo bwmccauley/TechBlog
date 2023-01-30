@@ -41,7 +41,7 @@ Post.init(
       }
 );
 
-// // Alex's Post model
+// // Brandon's Post model
 // class Post extends Model {}
 // // create fields/columns for Post model
 // Post.init(
